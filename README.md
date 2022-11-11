@@ -1,1 +1,1 @@
-# day_02
+02_visual_studio_installation
